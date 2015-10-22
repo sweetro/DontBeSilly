@@ -6,7 +6,7 @@ Don't be silly. Chrome extension to filter which Facebook news stories are fake.
 
 To use:
 
-- <a href="https://github.com/sweetro/DontBeSilly/blob/master/fakebook.crx?raw=true">Download Extension</a>
+- <a href="https://github.com/sweetro/DontBeSilly/blob/master/DontBeSilly.crx?raw=true">Download Extension</a>
 - Go to <strong>chrome://extensions</strong> in Chrome, drag downloaded file into browser
 
 
